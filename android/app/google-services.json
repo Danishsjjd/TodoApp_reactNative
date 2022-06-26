@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "910398781434",
+    "firebase_url": "https://crud-app-c5e18-default-rtdb.firebaseio.com",
+    "project_id": "crud-app-c5e18",
+    "storage_bucket": "crud-app-c5e18.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910398781434:android:b399d319f3c0cc5da39643",
+        "android_client_info": {
+          "package_name": "com.todoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "910398781434-gbkpjaha7ho7nhornur2d5cbg5lnf17s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYRNRu4LuQd4EA3gDnIPNK9k0Mv22ffOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "910398781434-gbkpjaha7ho7nhornur2d5cbg5lnf17s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
